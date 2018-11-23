@@ -1,0 +1,2 @@
+# StakeBoxWallet
+StakeBox Wallet Software
